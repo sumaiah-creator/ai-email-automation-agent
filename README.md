@@ -315,3 +315,7 @@ Through this project:
 ✅ Automated Reply Generation
 
 ✅ Human-in-the-Loop Decision Making
+
+## Dashboard Preview
+
+![Dashboard](assets/dashboard.png)
