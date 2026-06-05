@@ -318,4 +318,4 @@ Through this project:
 
 ## Dashboard Preview
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard-home.png)
